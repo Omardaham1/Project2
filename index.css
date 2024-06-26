@@ -1,0 +1,106 @@
+body{
+background-color: lightseagreen;
+
+}
+
+header > img{
+border-radius: 50%;
+height: 10%;
+width: 10%
+}
+
+nav{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+border-style: dashed; 
+}
+
+header > h1{
+margin-left: 230px;
+color: aliceblue;
+}
+
+
+.homepage{
+color: black;
+font-size: xx-large;
+
+}
+
+.about1{
+font-size: xx-large;
+color: black;
+}
+
+.about2 {
+font-size: x-large;
+color: black;
+border-style: dashed; 
+margin-bottom: 30px;
+}
+
+.about2> img{
+margin-left: 250px;
+margin-bottom: 10px;
+
+}
+
+.about3{
+    font-size: x-large;
+    color: black;
+    border-style: dashed; 
+    margin-bottom: 30px;
+
+
+}
+
+.about3> img{
+margin-left: 200px;
+width: 300px;
+margin-bottom: 10px;
+}
+
+.about4{
+    font-size: x-large;
+    color: black;
+    border-style: dashed; 
+    
+}
+
+.about4 > img{
+    margin-left: 220px;
+    margin-bottom: 10px;
+
+
+}
+
+.Projectintro{
+margin-top: 30px;
+font-size: x-large;
+border-style: dashed;
+margin-bottom: 30px;
+}
+
+
+.Project1{
+font-size: x-large;
+margin-bottom: 30px;
+border-style: dashed;
+}
+
+.Project2{
+    font-size: x-large;
+    margin-bottom: 30px;
+    border-style: dashed;
+}
+
+.Project3{
+    font-size: x-large;
+    margin-bottom: 30px;
+    border-style: dashed;
+}
+
+.Project1 > img{
+margin-left: 220px;
+ }
