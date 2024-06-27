@@ -104,3 +104,23 @@ border-style: dashed;
 .Project1 > img{
 margin-left: 220px;
  }
+
+
+ @media (max-width: 340px) {
+body {
+background-color: aqua;
+}
+
+nav{
+display: none;
+}
+
+header{
+display: none;
+}
+}
+
+
+ 
+
+ 
